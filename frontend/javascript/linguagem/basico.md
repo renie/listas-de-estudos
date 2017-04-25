@@ -20,7 +20,7 @@
 
 ## Tableless Iniciantes: Operadores
 > (https://www.textise.net/showText.aspx?strURL=http://tableless.github.io/iniciantes/manual/js/operadores.html)
->> Tags: operador, condicional, if, matematica, sinal
+>> Tags: operadores, condicional, if, matematica, sinal
 
 
 ## Tableless Iniciantes: Funções
@@ -32,16 +32,19 @@
 > (https://www.textise.net/showText.aspx?http://tableless.github.io/iniciantes/manual/js/controles-de-fluxo-e-controles-de-repeticao.html)
 >> Tags: for, if, condição, switch, foreach, while
 
+
 ## Você não sabe Javascript (You don't know Javascript)!
 Na minha opinião é um ótimo guia para quem quer aprender ou se aprimorar em Js, uma das melhores fontes sobre JS existentes na Interwebs :).
 > Introdução: https://raw.githubusercontent.com/cezaraugusto/You-Dont-Know-JS/portuguese-translation/up%20%26%20going/foreword.md
+Tags: aprender, ensinar, estudo
 
 > Capítulo 1 - Iniciando: https://raw.githubusercontent.com/cezaraugusto/You-Dont-Know-JS/portuguese-translation/up%20%26%20going/ch1.md
+Tags: expressões, execução, operadores, variável, tipo, conversões, cast, comentário, bloco, condicional, laço, repetição, if, while, for, bloco, escopo, funções, this
 
-> Capítulo 2 - Por dentro do JavaScript :https://raw.githubusercontent.com/cezaraugusto/You-Dont-Know-JS/portuguese-translation/up%20%26%20going/ch2.md
+> Capítulo 2 - Por dentro do JavaScript: https://raw.githubusercontent.com/cezaraugusto/You-Dont-Know-JS/portuguese-translation/up%20%26%20going/ch2.md
+Tags: variável, função, escopo, this, hoisting, tipo, if, switch, strict mode, iife, closure, modulo, polyfill, transpile, dom
 
-> Caítulo 3 - Dentro do YDKJS  https://raw.githubusercontent.com/cezaraugusto/You-Dont-Know-JS/portuguese-translation/up%20%26%20going/ch3.md
+> Capítulo 3 - Dentro do YDKJS: https://raw.githubusercontent.com/cezaraugusto/You-Dont-Know-JS/portuguese-translation/up%20%26%20going/ch3.md
+Tags: hoisting, this, escopo, prototype, async, performance, desempenho, assíncrono, ES6, ES7, ES2015
 
 > fonte: https://github.com/cezaraugusto/You-Dont-Know-JS
-
->> Tags: var, object, this, tipos, grámatica, guia completo
